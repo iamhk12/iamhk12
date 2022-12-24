@@ -1,3 +1,7 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h3 align="center">Hey there, I'm <a href="https://www.linkedin.com/in//himanshu-kothari-a62413243">Himanshu</a>.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+
 # 💫 About Me:
 I am a Web developer building websites and web applications.<br>I do specialize in Front-end development, designing and working with MERN stack.<br>Also, to add, I have been learning and practicing to write readable as well as optimal code in various programming languages.<br>Currently, learning funcamentals of Data sciences and Machine learning.
 
