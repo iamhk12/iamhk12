@@ -3,7 +3,10 @@
 <h3 align="center">Hey there, I'm <a target="_blank" href="https://hk12.netlify.app">Himanshu</a>.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 # 💫 About Me:
-I am a Web developer building websites and web applications.<br>I do specialize in Front-end development, designing and working with MERN stack.<br>Also, to add, I have been learning and practicing to write readable as well as optimal code in various programming languages.<br>Currently, learning funcamentals of Data sciences and Machine learning.
+◉ Web developer building websites and web applications.<br>
+◉ Specialized in Front-end development, designing and working with MERN stack.<br>
+◉ Learning and practicing to write readable as well as optimal code in various programming languages.<br>
+◉ Currently, learning funcamentals of Data sciences and Machine learning.
 
 
 ## 🌐 Socials:
