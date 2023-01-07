@@ -1,5 +1,5 @@
 <!--<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>-->
-<a align="center" href="https://www.linkedin.com/in/himanshu-kothari-a62413243" target="_blank"><img width="50%" height="auto" style="display: block; margin: 0 auto" src="https://github.com/iamhk12/Projects/blob/main/WebProjects/Project_Self/HIMKOTLOGO.png" height="175px"/></a>
+<a align="center" href="https://www.linkedin.com/in/himanshu-kothari-a62413243" target="_blank"><img width="50%" height="auto" style="display: block; margin: 0 auto" src="https://github.com/iamhk12/Projects/blob/main/WebProjects/assets/HIMKOTLOGO.png" height="175px"/></a>
 <h3 align="center">Hey there, I'm <a target="_blank" href="https://hk12.netlify.app">Himanshu</a>.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 # 💫 About Me:
