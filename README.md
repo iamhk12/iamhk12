@@ -22,5 +22,12 @@
 </p>
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
+ <!--new-->
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamhk12&show_icons=true&locale=en&layout=compact" alt="iamhk12" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamhk12&show_icons=true&locale=en" alt="iamhk12" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamhk12&" alt="iamhk12" /></p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
