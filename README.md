@@ -2,7 +2,7 @@
 <a align="center" href="https://www.linkedin.com/in/himanshu-kothari-a62413243" target="_blank"><img width="50%" height="auto" style="display: block; margin: 0 auto" src="https://github.com/iamhk12/Projects/blob/main/WebProjects/Assets/HIMKOTLOGO.png" height="175px"/></a>
 <h3 >Hey there, I'm <a target="_blank" href="https://hk12.netlify.app">Himanshu</a>.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
- <br/><br/><br/><br/>
+ <br/><br/><br/>
 # 💫 About Me:
 * Web developer building websites and web applications.<br>
 * Specialized in Front-end development, designing and working with MERN stack.<br>
