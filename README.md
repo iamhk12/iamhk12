@@ -2,14 +2,16 @@
 <a align="center" href="https://www.linkedin.com/in/himanshu-kothari-a62413243" target="_blank"><img width="50%" height="auto" style="display: block; margin: 0 auto" src="https://github.com/iamhk12/Projects/blob/main/WebProjects/Assets/HIMKOTLOGO.png" height="175px"/></a>
 <h2 >Hey there, I'm <a target="_blank" href="https://hk12.netlify.app">Himanshu</a>.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
- <br/><br/><br/>
+ <hr/>
+ 
 # 💫 About Me:
 * Web developer building websites and web applications.<br>
 * Specialized in Front-end development, designing and working with MERN stack.<br>
 * Learning and practicing to write readable as well as optimal code in various programming languages.<br>
 * Currently, learning funcamentals of Data sciences and Machine learning.
 
-
+ <hr/>
+ 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_hk12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-kothari-a62413243) 
 
