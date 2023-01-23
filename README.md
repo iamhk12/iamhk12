@@ -47,5 +47,5 @@
 # 📊 GitHub Stats : 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamhk12&theme=react&hide_border=false)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamhk12)](https://github.com/iamhk12)
+<img alt="iamhk12's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhk12&langs_count=10&layout=compact#" />
 
