@@ -50,7 +50,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 # </> GitHub Stats : 
-<a href="#"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamhk12&theme=react&show_icons=true" /></a> 
-![](https://github-readme-streak-stats.herokuapp.com/?user=iamhk12&theme=react&hide_border=false)
+<a href="#"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamhk12&theme=react&show_icons=true" /></a> <br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=iamhk12&theme=react&hide_border=false)<br>
 <img alt="iamhk12's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhk12&theme=react&langs_count=16&layout=compact" />
 
