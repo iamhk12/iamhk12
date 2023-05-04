@@ -19,15 +19,15 @@
 • Currently, learning funcamentals of Data sciences and Machine learning.
  
 ## Socials:
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_hk12) -->
-<!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamhk12/)  -->
-<a href="https://www.linkedin.com/in/iamhk12/">
+[![Instagram](https://img.shields.io/badge/Instagram-be2b60?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_hk12)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamhk12/) 
+<!-- <a href="https://www.linkedin.com/in/iamhk12/">
   <img align="left" alt="Himanshu's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a> -->
 
-<a href="https://www.instagram.com/_hk12/">
+<!-- <a href="https://www.instagram.com/_hk12/">
   <img align="left" alt="Himanshu's Instagram" width="40px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
+</a> -->
 
 <br/><br/>
 ## Tech Stack:
