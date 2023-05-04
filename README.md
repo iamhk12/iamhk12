@@ -1,23 +1,23 @@
 <!--<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>-->
-<a align="center" href="https://www.linkedin.com/in/iamhk12" target="_blank"><img width="100%" height="auto" style="display: block; margin: 0 auto" src="https://github.com/iamhk12/Projects/blob/main/WebProjects/Assets/goodHeader.gif" height="175px" width="100%"/></a>
+<a align="center" href="https://www.linkedin.com/in/iamhk12" target="_blank"><img width="60%" height="auto" style="display: block; margin: 0 auto" src="https://github.com/iamhk12/Projects/blob/main/WebProjects/Assets/goodHeader.gif" height="175px" width="100%"/></a>
 
 <h3 align="center">Hey there, I'm <a target="_blank" href="https://hk12.netlify.app">Himanshu</a>.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
 
 <br/>
 
 
-### </> About Me:
+## About Me:
 • <b>Currently pursuing B.Tech in Computer Engineering.</b><br>
 • Web developer building websites and web applications.<br>
 • Specialized in Front-end development, designing and working with MERN stack.<br>
 • Learning and practicing to write readable as well as optimal code in various programming languages.<br>
 • Currently, learning funcamentals of Data sciences and Machine learning.
  
-### </> Socials:
+## Socials:
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_hk12) -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamhk12/) 
 
-### </> Tech Stack:
+## Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -49,7 +49,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-### </> GitHub Stats : 
+## GitHub Stats : 
 <a href="#"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamhk12&theme=react&show_icons=true" /></a> <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamhk12&theme=react&hide_border=false)<br>
 <img alt="iamhk12's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhk12&theme=react&langs_count=16&layout=compact" />
