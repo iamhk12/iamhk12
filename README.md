@@ -21,6 +21,7 @@
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-be2b60?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_hk12)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamhk12/) 
+[![LinkedIn](https://img.shields.io/badge/gmail-e0e0e0?style=for-the-badge&logo=gmail&logoColor=d54f43)](mailto:hkothari247@gmail.com) 
 <!-- <a href="https://www.linkedin.com/in/iamhk12/">
   <img align="left" alt="Himanshu's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> -->
