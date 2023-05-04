@@ -7,10 +7,10 @@
 
 
 # 💫 About Me:
-* Web developer building websites and web applications.
-* Specialized in Front-end development, designing and working with MERN stack.
-* Learning and practicing to write readable as well as optimal code in various programming languages.
-* Currently, learning funcamentals of Data sciences and Machine learning.
+• Web developer building websites and web applications.<br>
+• Specialized in Front-end development, designing and working with MERN stack.<br>
+• Learning and practicing to write readable as well as optimal code in various programming languages.<br>
+• Currently, learning funcamentals of Data sciences and Machine learning.
 
   <br/>
  
