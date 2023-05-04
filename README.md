@@ -45,7 +45,7 @@
 <br/>
 
 # 📊 GitHub Stats : 
-<a href="#"><img alt="itzhv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itzhv14&theme=react&show_icons=true" /></a> 
+<a href="#"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamhk12&theme=react&show_icons=true" /></a> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamhk12&theme=react&hide_border=false)
 <br/>
 <img alt="iamhk12's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhk12&theme=react&langs_count=16&layout=compact" />
