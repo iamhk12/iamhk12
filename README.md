@@ -11,15 +11,10 @@
 • Specialized in Front-end development, designing and working with MERN stack.<br>
 • Learning and practicing to write readable as well as optimal code in various programming languages.<br>
 • Currently, learning funcamentals of Data sciences and Machine learning.
-
-  <br/>
  
 # 🌐 Socials:
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_hk12) -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamhk12/) 
-
-  <br/>
-    
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -42,11 +37,9 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-<br/>
 
 # 📊 GitHub Stats : 
 <a href="#"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamhk12&theme=react&show_icons=true" /></a> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamhk12&theme=react&hide_border=false)
-<br/>
 <img alt="iamhk12's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhk12&theme=react&langs_count=16&layout=compact" />
 
