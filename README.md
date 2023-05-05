@@ -18,7 +18,7 @@
 • Learning and practicing to write readable as well as optimal code in various programming languages.<br>
 • Currently, learning funcamentals of Data sciences and Machine learning.
  
-## Socials:
+## Contact:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamhk12/) 
 [![Gmail](https://img.shields.io/badge/gmail-e0e0e0?style=for-the-badge&logo=gmail&logoColor=d54f43)](mailto:hkothari247@gmail.com) 
