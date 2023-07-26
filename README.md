@@ -2,6 +2,8 @@
 </h3>
 
 ---
+
+```
 {
   "About Me": {
     "Pursuing": "B.Tech in Computer Engineering",
@@ -11,7 +13,7 @@
     "Currently Learning": "Data sciences"
   }
 }
-
+```
 ---
  
  ### Contact:
