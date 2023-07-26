@@ -3,7 +3,7 @@
 
 ---
 
-```
+```json
 {
   "About Me": {
     "Pursuing": "B.Tech in Computer Engineering",
