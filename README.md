@@ -2,6 +2,7 @@
 </h3>
 <br/>
 
+---
 
 ### About Me:
 • <b>Pursuing</b> ➾ <b> B.Tech in Computer Engineering.</b><br>
