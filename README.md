@@ -4,7 +4,7 @@ Hey there, I'm <a target="_blank" href="https://hk12.netlify.app">Himanshu</a>.<
 
 
 ## About Me:
-• <b>Pursuing ➾ B.Tech in Computer Engineering.</b><br>
+• <b>Pursuing</b> ➾ <b> B.Tech in Computer Engineering.</b><br>
 • Developing ➾ Websites and Web applications.<br>
 • Interested in ➾ MERN stack<br>
 • DSA ➾ 300+ questions  <br>
