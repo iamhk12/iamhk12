@@ -2,7 +2,7 @@
 </h3>
 
 
-> About Me:
+### About Me:
 - <b>Pursuing</b> ➾ <b> B.Tech in Computer Engineering.</b><br>
 - Developing ➾ Websites and Web applications.<br>
 - Interested in ➾ MERN stack<br>
@@ -11,7 +11,7 @@
 
 ---
  
-> ###Contact:
+ ### Contact:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamhk12/) 
 [![Gmail](https://img.shields.io/badge/gmail-e0e0e0?style=for-the-badge&logo=gmail&logoColor=d54f43)](mailto:hkothari247@gmail.com) 
