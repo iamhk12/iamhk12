@@ -4,11 +4,11 @@
 ---
 
 ### About Me:
-• <b>Pursuing</b> ➾ <b> B.Tech in Computer Engineering.</b><br>
-• Developing ➾ Websites and Web applications.<br>
-• Interested in ➾ MERN stack<br>
-• DSA ➾ 300+ questions  <br>
-• Currently Learning ➾ Data sciences.
+> <b>Pursuing</b> ➾ <b> B.Tech in Computer Engineering.</b><br>
+> Developing ➾ Websites and Web applications.<br>
+> Interested in ➾ MERN stack<br>
+> DSA ➾ 300+ questions  <br>
+> Currently Learning ➾ Data sciences.
 
 ---
  
