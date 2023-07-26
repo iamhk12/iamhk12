@@ -19,12 +19,14 @@
     "Grade": "9.51 / 10"
   },
 
-  "Work Experience" : {[
+  "Work Experience" : [
+    {
       "Company" : "Workset",
       "Job Title" : "SDE Intern",
       "Period" : "Jan 2023 - April 2023",
       "Duration" : "3 months"
-    ]},
+    }
+  ]
 
   "Projects" : [
       "InnerCalm - Mental Health Website",
