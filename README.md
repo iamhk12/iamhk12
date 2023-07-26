@@ -3,7 +3,7 @@
 
 ---
 
-```json
+```c++
 {
   "About Me": {
     "Pursuing": "B.Tech in Computer Engineering",
