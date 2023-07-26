@@ -6,15 +6,15 @@
 ```json
 {
   "About Me": {
-    "Pursuing": "B.Tech in Computer Engineering",
-    "Developing": "Websites and Web applications",
+    "Developing": ["Web applications","Websites","ML Models" ,"Algorithms"],
     "Interested in": "MERN stack",
-    "DSA": "Solved 100+ questions",
+    "Problem Solving": "Solved 200+ questions",
     "Currently Learning": "Data sciences"
   },
 
   "University": {
     "Name": "Ramrao Adik Institute of Technology",
+    "Degree" : "B.Tech in Computer Engineering",
     "Grade": "9.51 / 10"
   }
 }
