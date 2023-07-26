@@ -11,6 +11,11 @@
     "Interested in": "MERN stack",
     "DSA": "300+ questions",
     "Currently Learning": "Data sciences"
+  },
+
+  "University" : {
+    "Name" : "Ramrao Adik Institute of Technology",
+    "Grade" : "9.51 / 10"
   }
 }
 ```
