@@ -2,13 +2,15 @@
 </h3>
 
 ---
-
-### About Me:
-- <b>Pursuing</b> ➾ <b> B.Tech in Computer Engineering.</b><br>
-- Developing ➾ Websites and Web applications.<br>
-- Interested in ➾ MERN stack<br>
-- DSA ➾ 300+ questions  <br>
-- Currently Learning ➾ Data sciences.
+{
+  "About Me": {
+    "Pursuing": "B.Tech in Computer Engineering",
+    "Developing": "Websites and Web applications",
+    "Interested in": "MERN stack",
+    "DSA": "300+ questions",
+    "Currently Learning": "Data sciences"
+  }
+}
 
 ---
  
