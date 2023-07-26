@@ -6,7 +6,7 @@
 ```json
 {
   "About Me": {
-    "Developing": ["Web applications","Websites","ML Models" ,"Algorithms",...],
+    "Developing": ["Web applications","Websites","ML Models" ,"Algorithms","... and more"],
     "Interested in": "MERN stack",
     "Problem Solving": "Solved 200+ questions",
     "Currently Learning": "Data sciences"
@@ -15,8 +15,18 @@
   "University": {
     "Name": "Ramrao Adik Institute of Technology",
     "Degree" : "B.Tech in Computer Engineering",
+    "Period" : "2021 - 2025",
     "Grade": "9.51 / 10"
-  }
+  },
+
+  "Work Experience" : {[
+      "Company" : "Workset",
+      "Job Title" : "SDE Intern",
+      "Period" : "Jan 2023 - April 2023",
+      "Duration" : "3 months"
+    ]},
+
+  "Projects" : ["InnerCalm - Mental Health Website", "Bibliotek - A University Portal" , "hkFiles - A personal cloud storage space"]
 }
 ```
 
