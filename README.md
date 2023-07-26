@@ -6,7 +6,7 @@
 ```json
 {
   "About Me": {
-    "Developing": ["Web applications","Websites","ML Models" ,"Algorithms","... and more"],
+    "Developing": [ "Web applications" , "Websites" , "ML Models" , "Algorithms", "... and more"],
     "Interested in": "MERN stack",
     "Problem Solving": "Solved 200+ questions",
     "Currently Learning": "Data sciences"
@@ -30,7 +30,8 @@
       "InnerCalm - Mental Health Website",
       "Bibliotek - A University Portal" ,
       "hkFiles - A personal cloud storage space",
-      "noDuesForm -  University digital form with authentication "
+      "noDuesForm -  University digital form with authentication ",
+      "... more 15+ projects"
     ]
 }
 ```
