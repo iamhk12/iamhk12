@@ -12,11 +12,11 @@
 
 
 ## About Me:
-• <b>Pursuing 》B.Tech in Computer Engineering.</b><br>
-• Developing 》Websites and Web applications.<br>
-• Interested in 》 MERN stack<br>
-• DSA 》300+ questions  <br>
-• Currently 》Learning Data sciences.
+• <b>Pursuing ➾ B.Tech in Computer Engineering.</b><br>
+• Developing ➾ Websites and Web applications.<br>
+• Interested in ➾ MERN stack<br>
+• DSA ➾ 300+ questions  <br>
+• Currently Learning ➾ Data sciences.
  
 ## Contact:
 
