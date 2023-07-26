@@ -6,7 +6,7 @@
 ```json
 {
   "About Me": {
-    "Developing": ["Web applications","Websites","ML Models" ,"Algorithms"],
+    "Developing": ["Web applications","Websites","ML Models" ,"Algorithms",...],
     "Interested in": "MERN stack",
     "Problem Solving": "Solved 200+ questions",
     "Currently Learning": "Data sciences"
