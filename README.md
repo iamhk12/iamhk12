@@ -9,6 +9,8 @@
 • Interested in ➾ MERN stack<br>
 • DSA ➾ 300+ questions  <br>
 • Currently Learning ➾ Data sciences.
+
+---
  
 ### Contact:
 
@@ -22,6 +24,8 @@
 <!-- <a href="https://www.instagram.com/_hk12/">
   <img align="left" alt="Himanshu's Instagram" width="40px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a> -->
+
+---
 
 ### Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br>
@@ -54,6 +58,8 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
 
 ### GitHub Stats : 
 <a href="#"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamhk12&theme=react&show_icons=true" /></a> <br>
