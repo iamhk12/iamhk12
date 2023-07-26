@@ -3,7 +3,7 @@
 
 ---
 
-```python
+```javascript
 {
   "About Me": {
     "Pursuing": "B.Tech in Computer Engineering",
