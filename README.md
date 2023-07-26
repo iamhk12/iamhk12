@@ -1,9 +1,8 @@
 <h3>Hey there, I'm <a target="_blank" href="https://hk12.netlify.app">Himanshu</a>.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
----
 
-### About Me:
+> About Me:
 - <b>Pursuing</b> ➾ <b> B.Tech in Computer Engineering.</b><br>
 - Developing ➾ Websites and Web applications.<br>
 - Interested in ➾ MERN stack<br>
@@ -12,7 +11,7 @@
 
 ---
  
-### Contact:
+> ###Contact:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamhk12/) 
 [![Gmail](https://img.shields.io/badge/gmail-e0e0e0?style=for-the-badge&logo=gmail&logoColor=d54f43)](mailto:hkothari247@gmail.com) 
