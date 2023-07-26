@@ -71,7 +71,7 @@
 
 ---
 ### LEETCODE :
-[![Leetcode Stats](https://leetcard.jacoblin.cool/iamhk12?hide=ranking&theme=dark&border=0&radius=20)](https://www.leetcode.com/iamhk12/) 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/iamhk12?hide=ranking&theme=dark&border=10&radius=20&font=Poppins)](https://www.leetcode.com/iamhk12/) 
 
 ### GitHub Stats : 
 <a href="#"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamhk12&theme=react&show_icons=true" /></a> <br>
