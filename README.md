@@ -9,7 +9,7 @@
     "Pursuing": "B.Tech in Computer Engineering",
     "Developing": "Websites and Web applications",
     "Interested in": "MERN stack",
-    "DSA": "300+ questions",
+    "DSA": "Solved 100+ questions",
     "Currently Learning": "Data sciences"
   },
 
