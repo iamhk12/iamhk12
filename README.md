@@ -12,15 +12,16 @@
 
 
 ## About Me:
-<b>🖥️ Currently pursuing B.Tech in Computer Engineering.</b>
+
+<b>🖥️ B.Tech student in Computer Engineering.</b>
 <br>
-🌐 Web developer building websites and web applications.
+🌐 Web developer focusing on MERN stack.
 <br>
-♾️ Specialized in Front-end development, designing, and working with MERN stack.
+♾️ Specialized in Front-end development with design.
 <br>
-✅ Learning and practicing to write readable as well as optimal code in various programming languages.
+✅ Practicing efficient and readable code.
 <br>
-💡 Currently learning fundamentals of Data Science and Machine Learning.
+💡 Exploring Data Science and Machine Learning basics.
  
  ### Contact:
 
