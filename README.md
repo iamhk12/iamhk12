@@ -33,6 +33,13 @@
 
 <br>
 
+
+### LEETCODE :
+[![Leetcode Stats](https://leetcard.jacoblin.cool/iamhk12?hide=ranking&theme=dark&border=2&radius=20&font=Poppins)](https://www.leetcode.com/iamhk12/) 
+
+<br><br>
+
+
 ### Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br>
 ![CSS3](https://img.shields.io/badge/css3-%2900599C.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -67,11 +74,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 <br>
-
-### LEETCODE :
-[![Leetcode Stats](https://leetcard.jacoblin.cool/iamhk12?hide=ranking&theme=dark&border=2&radius=20&font=Poppins)](https://www.leetcode.com/iamhk12/) 
-
-<br><br>
 
 ### GitHub Stats : 
 <a href="#"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamhk12&theme=react&show_icons=true" /></a> <br>
