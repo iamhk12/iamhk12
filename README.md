@@ -21,7 +21,7 @@
 <br>
 ✅ Practicing efficient and readable code.
 <br>
-💡 Exploring Data Science and Machine Learning basics.
+💡 Exploring Data Science and Machine Learning.
  
  ### Contact:
 
