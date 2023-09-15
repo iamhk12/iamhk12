@@ -41,7 +41,7 @@
 
 ### LEETCODE :
 [![Leetcode Stats](https://leetcard.jacoblin.cool/iamhk12?hide=ranking&theme=dark&border=2&radius=20&font=Poppins)](https://www.leetcode.com/iamhk12/) 
-
+[![Leetcode](https://img.shields.io/badge/LEETCODE-282828?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/iamhk12)
 <br><br>
 
 
