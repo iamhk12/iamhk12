@@ -15,9 +15,9 @@
 
 <b>🖥️ B.Tech student in Computer Engineering.</b>
 <br>
-🌐 A Developer focusing on MERN stack.
+🌐 A Developer focusing on JS frameworks.
 <br>
-♾️ Specialized in Front-end development with design.
+♾️ Specialized in Full Stack development.
 <br>
 ✅ Practicing efficient and readable code.
 <br>
