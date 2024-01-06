@@ -27,7 +27,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamhk12/) 
 [![Gmail](https://img.shields.io/badge/gmail-e0e0e0?style=for-the-badge&logo=gmail&logoColor=d54f43)](mailto:hkothari247@gmail.com) 
-[![Instagram](https://img.shields.io/badge/Instagram-be2b60?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_hk12)
 
 <br>
 
